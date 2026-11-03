@@ -34,4 +34,4 @@ Contact: [chahong@korea.ac.kr](mailto:chahong@korea.ac.kr)
 
 ## Code Availability
 
-This repository contains the ZZ kernel model and fold-specific hyperparameters used for the HWANG benchmark. Quantum circuits are evaluated using noiseless statevector simulation. The benchmark uses sampled unannotated genes as negatives. The code reproduces cross-validation models and does not provide a single model fitted to the complete dataset.
+The full pipeline code is currently under patent application and is not publicly available. The code will be made available upon reasonable request.

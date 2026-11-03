@@ -30,7 +30,7 @@ The script refits the ZZ kernel model using the selected hyperparameters for eac
 
 Shin H, Hwang KY. *Explainable quantum artificial intelligence for target deconvolution in phenotypic drug discovery*. Manuscript in preparation.
 
-Contact: [chahong@korea.ac.kr](mailto:chahong@korea.ac.kr)
+Contact: [saekomi5@korea.ac.kr](mailto:saekomi5@korea.ac.kr)
 
 ## Code Availability
 
